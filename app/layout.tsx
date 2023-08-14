@@ -10,15 +10,12 @@ import Footer from '@/components/Footer'
 import siteMetadata from '@/data/siteMetadata'
 import { ThemeProviders } from './theme-providers'
 import { Metadata } from 'next'
-import { inject } from '@vercel/analytics';
 
 const space_grotesk = Space_Grotesk({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-space-grotesk',
 })
-
-inject();
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteMetadata.siteUrl),
