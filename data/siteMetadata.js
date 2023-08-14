@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'De Waarheid Online',
   author: 'Jonas',
-  headerTitle: 'Een echte blog',
+  headerTitle: 'De waarheid',
   description: 'Een waarheidsgetrouwe blog met aandacht voor dingen die we niet durven zeggen',
   language: 'nl-be',
   theme: 'system', // system, dark or light
@@ -17,7 +17,7 @@ const siteMetadata = {
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
-  locale: 'en-US',
+  locale: 'nl-be',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
