@@ -10,11 +10,21 @@ const projectsData = [
     href: 'https://chat.openai.com/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
+    title: 'Ouderverstoting',
+    description: `In mijn recente blogpost onderzoek ik het ernstige probleem van ouderverstoting, 
+    waarbij kinderen emotioneel worden afgesneden van een van hun ouders na een scheiding. 
+    Ik bespreek de impact van ouderverstoting op kinderen en families, de mogelijke oorzaken en gevolgen op lange termijn. 
+    Daarnaast bekijk ik enkele mogelijke strategieën om dit complexe en schadelijke fenomeen aan te pakken en het bewustzijn ervan te vergroten.`,
+    imgSrc: '/static/images/ouderverstoting.png',
+    href: '/blog/ouderverstoting',
+  },
+  {
+    title: 'Ouderverstoting',
+    description: `In mijn recente blogpost onderzoek ik het ernstige probleem van ouderverstoting, 
+    waarbij kinderen emotioneel worden afgesneden van een van hun ouders na een scheiding. 
+    Ik bespreek de impact van ouderverstoting op kinderen en families, de mogelijke oorzaken en gevolgen op lange termijn. 
+    Daarnaast bekijk ik enkele mogelijke strategieën om dit complexe en schadelijke fenomeen aan te pakken en het bewustzijn ervan te vergroten.`,
+    imgSrc: '/static/images/ouderverstoting.png',
     href: '/blog/ouderverstoting',
   },
 ]
