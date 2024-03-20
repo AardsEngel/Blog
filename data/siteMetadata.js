@@ -10,13 +10,12 @@ const siteMetadata = {
   siteRepo: 'https://github.com/AardsEngel/Blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'info@dewaarheid.online',
   github: 'https://github.com/AardsEngel',
-  twitter: 'https://twitter.com/',
-  facebook: 'https://facebook.com',
+  twitter: 'https://twitter.com/VanTwembeke',
+  facebook: 'https://facebook.com/VanTwembeke',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/VanTwembeke',
   locale: 'nl-be',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
